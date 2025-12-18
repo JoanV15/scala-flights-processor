@@ -1,0 +1,21 @@
+# --- Archivos compilados y temporales ---
+target/
+project/target/
+project/project/
+
+# --- Configuración de IDEs ---
+.idea/
+.bsp/
+*.iml
+.vscode/
+
+# --- Archivos del sistema ---
+.DS_Store
+
+# --- DATOS DE ENTRADA (Añadidos de tu lista) ---
+flights.csv
+Documentation.csv
+Term.csv
+
+# --- DATOS DE SALIDA ---
+output/
